@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on blackjack simulation that uses the basic strategy and Kelly Criterion to optimize success
+- 🌱 I’m currently learning API tools and how to build solid algorithms in python.
 
 <!--
 **Jim2E/Jim2E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
