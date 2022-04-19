@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on simulating blackjack games in python that uses the basic strategy and Kelly Criterion to optimize success.
+- 🔭 I’m currently working on simulating blackjack games(in python) that uses the basic strategy and Kelly Criterion to optimize success.
 - 🌱 I’m currently learning API tooling and want to build real-time prediction systems for the crypto-market.
 
 <!--
